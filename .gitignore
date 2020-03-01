@@ -1,0 +1,14 @@
+.DS_Store
+data/adult.data.csv
+data/howpop_train.csv
+data/microchip_tests.txt
+data/mlbootcamp5_train.csv
+data/sample.csv
+data/telecom_churn.csv
+data/test.csv
+data/titanic_test.csv
+data/titanic_train.csv
+data/train.csv
+data/train_data_3users.csv
+data/video_games_sales.csv
+data/weights_heights.csv
